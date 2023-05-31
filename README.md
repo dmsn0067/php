@@ -1,2 +1,2 @@
 # php
-Some PHP cheat sheets
+Some PHP cheat sheets / lessons for students
